@@ -1,4 +1,4 @@
-# lista-dois-java-una
+# lista-exercicio-2-java
 Lista de exercícios de estrutura condicional realizado na linguagem Java.
 
 ### Tecnologias utilizadas (JDK): https://www.oracle.com/br/java/technologies/downloads/ 
