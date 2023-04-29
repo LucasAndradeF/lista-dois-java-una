@@ -1,3 +1,9 @@
+// Escreva um algoritmo que leia dois valores: o primeiro servindo de indicador de operação e o segundo correspondendo ao raio de um círculo ou esfera. Caso o primeiro valor lido seja:
+// a. 1: calcular e imprimir o perímetro do círculo.
+// b. 2: calcular e imprimir a área do círculo.
+// c. 3: calcular e imprimir o volume da esfera.
+// Se o primeiro valor lido for diferente desses três valores possíveis, imprimir uma mensagem de erro, informando que o código da operação é inválido.
+
 import java.util.Scanner;
 
 public class ExercicioQuatroListaDois {
