@@ -1,3 +1,6 @@
+// Escrever um algoritmo que leia a partir do teclado dois números reais e um dos símbolos de operação: + , - , * , / ou ^ . O algoritmo deve retornar o resultado da operação. 
+// Caso o símbolo informado seja diferente dos símbolos preestabelecidos, o algoritmo deve apresentar uma mensagem de erro, informando que o símbolo da operação é inválido.
+
 import java.util.Scanner;
 
 public class ExercicioCincoListaDois {
