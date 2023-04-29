@@ -1,3 +1,10 @@
+// Escreva um algoritmo que resolva uma equação de segundo grau, realizando a verificação de consistência dos valores dos coeficientes ("a", "b" e "c") e do discriminante (delta).
+// a. Se os coeficientes "a" e "b" forem iguais a zero e o coeficiente "c" for diferente de zero, apresentar a mensagem "Coeficientes informados incorretamente.".
+// b. Caso o coeficiente "a" seja igual a zero e o coeficiente "b" for diferente de zero, deverá ser impressa a mensagem: "Essa é uma equação de primeiro grau" e deverá ser informado o valor da raiz real da equação.
+// c. Caso o discriminante seja negativo, deverá ser impressa a mensagem: "Esta equação não possui raízes reais".
+// d. Caso o discriminante seja zero, apresentar a mensagem "Esta equação possui duas raízes reais iguais. " e informar o valor das raízes da equação.
+// e. Caso o discriminante seja maior que zero, apresentar a mensagem "Esta equação possui duas raízes reais diferentes. " e informar o valor das raízes da equação.
+
 import java.util.Scanner;
 
 public class ExercicioTresListaDois {
