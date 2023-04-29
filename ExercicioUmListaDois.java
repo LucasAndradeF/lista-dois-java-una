@@ -1,3 +1,9 @@
+// Escreva um algoritmo que leia 3 números a partir do teclado. O algoritmo deve apresentar:
+// a. O maior número.
+// b. O menor número.
+// c. A média aritmética dos três números.
+
+
 import java.util.Scanner;
 
 public class ExercicioUmListaDois {
